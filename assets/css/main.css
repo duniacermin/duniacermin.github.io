@@ -2645,7 +2645,7 @@ input, select, textarea {
 
 		.carousel article {
 			display: inline-block;
-			/*width: 18em;*/
+			width: 18em;
 			background: #fff;
 			text-align: center;
 			padding: 2em 1em 2em 1em;
@@ -3182,7 +3182,7 @@ input, select, textarea {
 				}
 
 				.carousel article {
-					width: 14em;
+					/*width: 14em;*/
 					padding-bottom: 2em;
 					margin: 0 0.5em 0 0;
 				}
